@@ -1,3 +1,4 @@
+push -all
 no-ff
 add merge
 Creating a new branch is quick AND simple.
